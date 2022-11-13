@@ -7,19 +7,26 @@ This project was to refactor the code given to us to loop through all the data o
 The purpose of the project is to refactor the code so it runs faster. The reason we want it to run faster is because if we had a giant data set, the code we did in our homework would take a while to execute. The code we refactored in our challenge will run through all the data much faster.
 
 ## Results
+
+### Module 2 Homework Results
 The code between the homework and the challenge look really similar in most instances. One difference is in the module 2 homework, we used two different factors I and J. 
 
 ![Homework_code](Resources/Homework_Code.png).
 
 
-With the code ran like this it took 0.7460938 seconds which is over twice as much as it took the refactored code.
+With the code ran like this it took 0.7460938 seconds which is over twice as long as it took the refactored code.
 
 
 ![VBA_Challenge_2018_2](Resources/VBA_Challenge_2018_2.png).
+
+### Challenge 2 Refactored Code Results
 For the refactored code, although it looks very similar to the homework code, we didn't use J, we used one factor (I) throughout, which I believe is what sped things up.
 
 
 ![Challange_Code](Resources/Challange_Code.png)
+
+With the code ran like this it took 0.1796875 seconds to run. 
+
 ![VBA_Challange_2018](Resources/VBA_Challenge_2018.png).
 
 ## Summary
